@@ -29,6 +29,6 @@ Berikut ini model regresi yang dievaluasi beserta hasil metrik evaluasinya:
 Model **Linear Regression** adalah pilihan terbaik dalam proyek ini berdasarkan evaluasi performa, dengan akurasi tinggi dan kesalahan prediksi yang rendah. Lars tidak disarankan untuk digunakan, sedangkan Gradient Boosting bisa menjadi alternatif cadangan.
 
 ## 💡 Kredit
-Made with ❤️ by Dwi Cahya Novita. Proyek ini adalah bagian dari kursus **Machine Learning untuk Pemula** yang diselenggarakan oleh **Dicoding**.
+Dwi Cahya Novita. Proyek ini adalah bagian dari kursus **Machine Learning untuk Pemula** yang diselenggarakan oleh **Dicoding**.
 
 ---
